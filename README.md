@@ -1,4 +1,16 @@
 # Stupid-thing-TungTung
+
+
+
+https://storage.googleapis.com/canvas-lms/index.html
+https://s3.amazonaws.com/deltamath-demo/index.html
+https://s3.amazonaws.com/educationate/index.html
+https://newastra.b-cdn.net/
+https://objectstorage.us-sanjose-1.oraclecloud.com/n/axjcou67ax5a/b/sciencelearning/o/index.html
+https://scholarpathmath.store/
+https://pub-e8d1d8e40bb7420daf150c761ad5bfef.r2.dev/index.svg
+https://s3.amazonaws.com/ulg3/index.html
+
 saugatr-math840306.hollings.xyz
 technology800247-saugatr.izham.xyz
 member526728-saugatr.kinohint.ru
